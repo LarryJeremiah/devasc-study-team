@@ -1,2 +1,2 @@
-    "glossary": {
+    "gy": {
         "title": "example glossary",
